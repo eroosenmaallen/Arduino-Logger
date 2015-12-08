@@ -1,0 +1,10 @@
+Logger		KEYWORD1
+connected	KEYWORD2
+connect		KEYWORD2
+available	KEYWORD2
+read		KEYWORD2
+peek		KEYWORD2
+flush		KEYWORD2
+print		KEYWORD2
+println		KEYWORD2
+write		KEYWORD2

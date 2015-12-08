@@ -1,0 +1,18 @@
+{
+  "name": "Logger",
+  "description": "The Logger transmits messages to the serial port as well as an IP address",
+  "keywords": "ethernet, log, output",
+  "authors": 
+  {
+    "name":	"Eddie Roosenmaallen",
+    "email":	"eddie@page.ca",
+    "maintainer":	true
+  },
+  "repository":
+  {
+    "type":	"git",
+    "url":	"https://github.com/eroosenmaallen/Arduino-Logger"
+  },
+  "frameworks": "arduino",
+  "platforms": "atmelavr"
+}
